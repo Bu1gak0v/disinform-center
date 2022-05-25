@@ -73,7 +73,7 @@
     });
   }
 
-  // :: 5.0 CounterUp Active Code
+  // Відстежує, де знаходиться користувач
   if ($.fn.counterUp) {
     $('.counter').counterUp({
       delay: 10,
